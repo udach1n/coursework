@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "add/1.0.0": {
+        "dependencies": {
+          "Atheneum": "1.0.0"
+        },
+        "runtime": {
+          "add.dll": {}
+        }
+      },
+      "Atheneum/1.0.0": {
+        "runtime": {
+          "Atheneum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "add/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atheneum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

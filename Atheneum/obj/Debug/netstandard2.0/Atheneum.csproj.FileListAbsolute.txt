@@ -1,0 +1,9 @@
+C:\Users\Артем\source\repos\Atheneum\bin\Debug\netstandard2.0\Atheneum.deps.json
+C:\Users\Артем\source\repos\Atheneum\bin\Debug\netstandard2.0\Atheneum.dll
+C:\Users\Артем\source\repos\Atheneum\bin\Debug\netstandard2.0\Atheneum.pdb
+C:\Users\Артем\source\repos\Atheneum\obj\Debug\netstandard2.0\Atheneum.csprojAssemblyReference.cache
+C:\Users\Артем\source\repos\Atheneum\obj\Debug\netstandard2.0\Atheneum.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\Atheneum\obj\Debug\netstandard2.0\Atheneum.AssemblyInfo.cs
+C:\Users\Артем\source\repos\Atheneum\obj\Debug\netstandard2.0\Atheneum.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Atheneum\obj\Debug\netstandard2.0\Atheneum.dll
+C:\Users\Артем\source\repos\Atheneum\obj\Debug\netstandard2.0\Atheneum.pdb
