@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NOMxkPu3KxLbOzJdJCUkhfi/24NoTBkGtCdH636LfJ46Jv9a1d1VXcT7mHphp6T7osLjVEcyarArZGAXjY08iA==",
+  "dgSpecHash": "cqP+/xy6ntqfA42SJknLRyH/8aprkHqsVajFA+Gp3t05+G49IPAxhP7oo8NQeLyF82Q3m2rdD/S6Xr7O0oFC6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Артем\\source\\repos\\Atheneum\\Atheneum.csproj",
+  "projectFilePath": "C:\\Users\\Udachin\\Source\\Repos\\coursework\\Atheneum\\Atheneum.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Артем\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Артем\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Udachin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Udachin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

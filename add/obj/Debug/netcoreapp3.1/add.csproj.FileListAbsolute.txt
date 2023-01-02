@@ -1,0 +1,17 @@
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.csproj.AssemblyReference.cache
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.AssemblyInfoInputs.cache
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.AssemblyInfo.cs
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.csproj.CoreCompileInputs.cache
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\add.exe
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\add.deps.json
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\add.runtimeconfig.json
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\add.runtimeconfig.dev.json
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\add.dll
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\add.pdb
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\Atheneum.dll
+C:\Users\Udachin\Source\Repos\coursework\add\bin\Debug\netcoreapp3.1\Atheneum.pdb
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.csproj.CopyComplete
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.dll
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.pdb
+C:\Users\Udachin\Source\Repos\coursework\add\obj\Debug\netcoreapp3.1\add.genruntimeconfig.cache
