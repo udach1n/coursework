@@ -9,7 +9,7 @@ namespace add
     {
         static public void Main()
         {
-            Front.Appearance.MakeLibrary("Artem");
+            Front.Appearance.MakeLibrary("Library");
             Front.Appearance.Menu();
         }
     }
